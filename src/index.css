@@ -4,6 +4,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+  @tailwind base;
+  @tailwind components;
+  @tailwind utilities;
 
 .nav{
   font-family: 'Edu SA Beginner', cursive;
@@ -13,6 +16,3 @@
 
 
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
